@@ -1,0 +1,10 @@
+{
+  "Locations": [
+    {
+      "Name": "Hong Kong",
+      "Folder": "hong-kong",
+      "WebsiteUrl": "http://gwabhongkong.azurewebsites.net",
+      "Show": true
+    }
+  ]
+}

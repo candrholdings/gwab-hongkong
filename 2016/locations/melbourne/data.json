@@ -1,0 +1,248 @@
+﻿{
+  "Location": {
+    "Name": "Melbourne",
+    "Latitude": -37.817588,
+    "Longitude": 144.960273,
+    "Address": "Melbourne"
+  },
+  "Social": {
+    "Meetup": "http://www.meetup.com/MelbourneAzure/"
+  },
+  "Callout": {
+    "Text": "Register interest",
+    "Link": "http://www.instant.ly/s/HmeK9",
+    "Type": "success"
+  },
+  "Organizers": [
+    {
+      "Name": "Daniel Mar",
+      "Social": {
+        "Email": "daniel.mar@infrontconsulting.com"
+      }
+    },
+    {
+      "Name": "Mahesh Krishnan",
+      "Social": {
+        "Email": "mail@mahe.sh"
+      }
+    }
+  ],
+  "Sponsors": [
+    {
+      "Name": "Microsoft",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/msft.png",
+      "Link": "http://www.microsoft.com"
+    },
+    {
+      "Name": "Readify",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/readify.jpg",
+      "Link": "http://readify.net/"
+    },
+    {
+      "Name": "Kloud",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/Kloud.jpg",
+      "Link": "http://www.kloud.com.au/"
+    },
+    {
+      "Name": "Infront Consulting",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/infront.jpg",
+      "Link": "http://www.infrontconsulting.com/"
+    }
+  ],
+  "Prizes": [
+    {
+      "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
+      "Link": "#",
+      "Name": "Coming Soon"
+    }
+  ],
+ "Tracks": [
+    {
+      "Name": "Developer Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "DEV1",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "DEV2",
+          "Time": "9:45 AM - 10:30 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "10:30 AM - 11:00 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV3",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "DEV4",
+          "Time": "11:45 AM - 12:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "12:30 PM - 1:30 PM",
+          "Title": "Lunch Break"
+        },
+        {
+          "SessionId": "DEV5",
+          "Time": "1:30 PM - 2:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "DEV6",
+          "Time": "2:15 PM - 3:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "3:00 PM - 3:30 PM",
+          "Title": "Afternoon Tea Break"
+        },
+        {
+          "SessionId": "DEV7",
+          "Time": "3:30 PM - 4:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "4:15 PM - 5:00 PM",
+          "Title": "Closing"
+        }
+      ]
+    },
+    {
+      "Name": "IT Pro Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "ITPRO1",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "ITPRO2",
+          "Time": "9:45 AM - 10:30 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "10:30 AM - 11:00 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "ITPRO3",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "ITPRO4",
+          "Time": "11:45 AM - 12:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "12:30 PM - 1:30 PM",
+          "Title": "Lunch Break"
+        },
+        {
+          "SessionId": "ITPRO5",
+          "Time": "1:30 PM - 2:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "ITPRO6",
+          "Time": "2:15 PM - 3:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "3:00 PM - 3:30 PM",
+          "Title": "Afternoon Tea Break"
+        },
+        {
+          "SessionId": "ITPRO7",
+          "Time": "3:30 PM - 4:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "4:15 PM - 5:00 PM",
+          "Title": "Closing"
+        }
+      ]
+    }
+  ]
+}
+
